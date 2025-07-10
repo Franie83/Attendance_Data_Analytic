@@ -1,11 +1,6 @@
-Streamlit
+streamlit
 pandas
 altair
-datetime, time
-FPDF
-Image
-io
-tempfile
-os
+fpdf
+Pillow
 altair_saver
-
