@@ -4,3 +4,4 @@ altair
 fpdf
 Pillow
 altair_saver
+openpyxl
